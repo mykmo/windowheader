@@ -1,0 +1,7 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=WindowHeader Plugin
+Comment=Show header of active window
+X-XFCE-Exec=/usr/lib/xfce4/panel-plugins/xfce4-windowheader-plugin
+#X-XFCE-Unique=true
